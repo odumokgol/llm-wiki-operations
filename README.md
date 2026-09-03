@@ -35,6 +35,11 @@ The human directs scope, interpretation, approval, and sensitive decisions. The 
 
 ## Documentation map
 
+- [Operating Rules](OPERATING_RULES.md)
+- [Retrieval Rules](RETRIEVAL_RULES.md)
+- [Memory Rules](MEMORY_RULES.md)
+- [Hermes Workflow](hermes/HERMES_WORKFLOW.md)
+- [ChatGPT Google Drive Workflow](chatgpt/CHATGPT_GOOGLE_DRIVE_WORKFLOW.md)
 - [Architecture](docs/architecture.md)
 - [Schema and metadata](docs/schema-and-metadata.md)
 - [Source ingestion](docs/source-ingestion.md)

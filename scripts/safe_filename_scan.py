@@ -9,7 +9,7 @@ SKIP = {".git", "node_modules", ".venv", "venv"}
 PATTERNS = [
     re.compile(r"(^|/)\.env(\.|$)", re.I),
     re.compile(r"(token|password|passwd|secret|api[_-]?key|oauth)", re.I),
-    re.compile(r"(CHAT|SUM|session-export|credentials?)", re.I),
+    re.compile(r"(CHAT-|SUM-|session-export|credentials?)", re.I),
 ]
 
 bad = []

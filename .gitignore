@@ -1,0 +1,19 @@
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Secrets and private data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+secrets*
+
+# Local reports and caches
+__pycache__/
+.pytest_cache/
+*.log

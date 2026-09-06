@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0 — 2026-09-06
+
+- Added a focused mapping of Hermes operating patterns that are useful for the ChatGPT Google Drive Wiki.
+- Marked Hermes-specific cron, session database, profile, and full archive mechanisms as non-transferable by default.
+
 ## 0.2.0 — 2026-09-04
 
 - Added shared operating, retrieval, and memory rules for Hermes and ChatGPT.

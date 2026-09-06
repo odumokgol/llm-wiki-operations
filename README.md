@@ -39,6 +39,7 @@ The human directs scope, interpretation, approval, and sensitive decisions. The 
 - [Retrieval Rules](RETRIEVAL_RULES.md)
 - [Memory Rules](MEMORY_RULES.md)
 - [Hermes Workflow](hermes/HERMES_WORKFLOW.md)
+- [Hermes-Inspired ChatGPT Rules](chatgpt/HERMES_INSPIRED_RULES.md)
 - [ChatGPT Google Drive Workflow](chatgpt/CHATGPT_GOOGLE_DRIVE_WORKFLOW.md)
 - [Architecture](docs/architecture.md)
 - [Schema and metadata](docs/schema-and-metadata.md)
